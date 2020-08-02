@@ -4,6 +4,7 @@ An app to manage my to-dos using the [Meteor](https://www.meteor.com/) framework
 To run the app:
 ```
   cd To-Do-meteor
+  npm install
   meteor run
 ```
 
